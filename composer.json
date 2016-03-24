@@ -1,7 +1,7 @@
 {
     "name": "mazhalai/test-package2",
     "require":{
-	"mazhalai/test-package2": "1.0.*"
+	"mazhalai/test-package3": "1.0.*"
 	},
     "version": "1.1.0"
 }
